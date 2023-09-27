@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teddy-the-steady
+- 👋 Hi, I’m Teddy
 - 👀 I’m interested in good design
 - 🌱 I’m currently learning UX/UI design
 - 💞️ I’m looking to collaborate on fun projects
