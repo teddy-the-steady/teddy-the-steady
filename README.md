@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Teddy
+- 👋 Hi, I’m Taeho
 - 👀 I’m interested in good design
 - 🌱 I’m currently learning UX/UI design
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me teddy.jeon@speedwagon.io
+- 📫 How to reach me hohoworld11@gmail.com
 
 <!---
 teddy-the-steady/teddy-the-steady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
